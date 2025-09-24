@@ -12,3 +12,7 @@
 2. `git add .` で変更をステージ
 3. `git commit -m "first commit"` で履歴登録
 4. `git push origin main` でGitHubへアップロード
+
+
+# Simple Website
+GitHub側でREADMEを編集しました。
