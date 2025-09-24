@@ -1,6 +1,6 @@
 # Simple Website
 
-これはGit/GitHub練習用のシンプルなWebサイトです。
+これはGit/GitHub練習用のシンプルなWebサイトです。練習用です。
 
 ## 内容
 - `index.html` : メインページ
